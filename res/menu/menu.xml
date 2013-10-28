@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:kna="http://schemas.android.com/apk/res-auto" >
+
+    <item
+        android:id="@+id/action_add"
+        android:icon="@drawable/ic_action_add_wifi"
+        android:orderInCategory="100"
+        android:title="@string/action_add"
+        kna:showAsAction="always"/>
+
+    
+    <item
+        android:id="@+id/action_edit"
+        android:icon="@drawable/ic_action_edit_wifi"
+        android:orderInCategory="100"
+        android:title="@string/action_edit"
+        kna:showAsAction="always"/>
+
+    <item
+        android:id="@+id/action_logout"
+        android:orderInCategory="100"
+        android:title="@string/action_logout"
+        kna:showAsAction="never"/>
+
+</menu>

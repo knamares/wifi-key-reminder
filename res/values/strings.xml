@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello">Hello World, ParseStarterProjectActivity!</string>
-    <string name="app_name">ParseStarterProject</string>
+    <string name="app_name">Wifi Key Reminder</string>
+    <string name="bssid">Bssid</string>
+    <string name="key">Key</string>
+    <string name="cancel">Cancel</string>
+    <string name="accept">Accept</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="todo">TODO</string>    
+    <string name="action_search">Search</string>    
+    <string name="action_settings">Settings</string>    
+    <string name="action_add">Add wifi</string>    
+    <string name="action_edit">Edit wifi</string>    
+    <string name="action_logout">Logout</string>    
+    <string name="show_your_wifi_configurations">Show your wifi configurations</string>    
+    <string name="add_new_wifi_configuration">Add new Wifi configuration</string>    
 </resources>
